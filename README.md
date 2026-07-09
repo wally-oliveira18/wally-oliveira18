@@ -118,8 +118,12 @@ Atualmente concentro meus estudos em desenvolvimento de software, banco de dados
 --
 ### 📫 Contato
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-(www.linkedin.com/in/wallisonvoliveira)
+<img 
+    align="left" 
+    alt="LinkedIn" 
+    title="LinkedIn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" 
+/> (www.linkedin.com/in/wallisonvoliveira)
 
