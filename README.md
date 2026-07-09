@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Wallison Victor de Oliveira
+# 👨🏿‍💻 Wallison Victor de Oliveira
 
 🎓 Estudante de Sistemas de Informação na PUC Minas
 
@@ -108,22 +108,25 @@ Meu objetivo é ingressar na área de dados e desenvolvimento de sofware, aplica
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🎯 Objetivos
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+- 💻 Evoluir como desenvolvedor Back-end
+- 📊 Aprimorar meus conhecimentos em Ciência de Dados, Machine Learning e Inteligência Artificial por meio de projetos práticos e estudos constantes.
+- 🚀 Desenvolver projetos que fortaleçam meu portfólio e contribuam para a comunidade de tecnologia.
+
+
+---
+📚 Projetos em destaque
+- [MathTrack](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t4-pmv-si-2025-2-pe1-projmathtrack) 🚀: Plataforma universitário desenvolvido para apoiar o aprendizado de Matemática, aplicando conceitos de desenvolvimento web, versionamento com Git e trabalho colaborativo.
+--
+### 📫 Contato
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="LinkedIn" 
+    title="LinkedIn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/linkedin/0A66C2" 
+/> (www.linkedin.com/in/wallisonvoliveira)
 
-</p>
