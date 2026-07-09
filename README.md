@@ -107,9 +107,9 @@ Atualmente concentro meus estudos em desenvolvimento de software, Ciência de Da
 ----
 ### 🎯 Objetivos
 
-- 💻 Evoluir como desenvolvedor Back-end
-- 📊 Aprimorar meus conhecimentos em Ciência de Dados, Machine Learning e Inteligência Artificial por meio de projetos práticos e estudos constantes.
-- 🚀 Desenvolver projetos que fortaleçam meu portfólio e contribuam para a comunidade de tecnologia.
+- Evoluir como desenvolvedor Back-end
+- Aprimorar meus conhecimentos em Ciência de Dados, Machine Learning e Inteligência Artificial por meio de projetos práticos e estudos constantes.
+- Desenvolver projetos que fortaleçam meu portfólio e contribuam para a comunidade de tecnologia.
 
 
 ---
