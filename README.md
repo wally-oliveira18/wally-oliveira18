@@ -4,7 +4,7 @@
 
 🌍 Belo Horizonte, MG – Brasil
 
-💻 Apaixonado por Programação, Estrutura de Dados e Desenvolvimento Web front-end e back-end
+💻 Apaixonado por Programação, Estrutura de Dados e Desenvolvimento back-end
 
 🤖 Entusiasta da Machine Learning e Ciência de Dados
 
@@ -12,7 +12,7 @@
 ### Sobre mim
 Olá! Sou Wallison, graduando em Sistemas de Informação pela PUC Minas, licenciado em Física pela PUC Minas e especialista em Relatividade Geral pela UNIFESP.
 
-Atualmente concentro meus estudos em desenvolvimento de software, banco de dados, Ciência de Dados e Machine Learning. Gosto de colocar em prática o que aprendo por meio de projetos pessoais e acadêmicos, sempre buscando evoluir minhas habilidades técnicas e aprender novas tecnologias utéis ao mercado, de modo a contribuir com soluções bem estruturadas..
+Atualmente concentro meus estudos em desenvolvimento de software, Ciência de Dados e Machine Learning. Gosto de colocar em prática o que aprendo por meio de projetos pessoais e acadêmicos, sempre buscando evoluir minhas habilidades técnicas e aprender novas tecnologias utéis ao mercado, de modo a contribuir com soluções bem estruturadas..
 
 
 ---
