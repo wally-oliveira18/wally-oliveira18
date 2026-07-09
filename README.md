@@ -1,8 +1,11 @@
 # 👩🏻‍💻 Wallison Victor de Oliveira
 
 🎓 Estudante de Sistemas de Informação na PUC Minas
+
 🌍 Belo Horizonte, MG – Brasil
+
 💻 Apaixonado por Programação, Estrutura de Dados e Desenvolvimento Web front-end e back-end
+
 🤖 Entusiasta da Machine Learning e Ciência de Dados
 
 ---
