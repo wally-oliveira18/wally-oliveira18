@@ -114,7 +114,7 @@ Atualmente concentro meus estudos em desenvolvimento de software, Ciência de Da
 
 ---
 ### 📚 Projetos em destaque
-- [MathTrack](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t4-pmv-si-2025-2-pe1-projmathtrack) 🚀: Plataforma universitário desenvolvido para apoiar o aprendizado de Matemática, aplicando conceitos de desenvolvimento web, versionamento com Git e trabalho colaborativo.
+- [MathTrack](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t4-pmv-si-2025-2-pe1-projmathtrack) : Plataforma universitário desenvolvido para apoiar o aprendizado de Matemática, aplicando conceitos de desenvolvimento web, versionamento com Git e trabalho colaborativo.
 --
 ### 📫 Contato
 
