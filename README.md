@@ -9,12 +9,10 @@
 🤖 Entusiasta da Machine Learning e Ciência de Dados
 
 ---
+### Sobre mim
+Olá! Sou Wallison, graduando em Sistemas de Informação pela PUC Minas, licenciado em Física pela PUC Minas e especialista em Relatividade Geral pela UNIFESP.
 
-Olá! Sou Wallison, graduando em Sistemas de Informação pela PUC Minas, formado em Física pela PUC-MG e especialista em Relatividade Geral pela UNIFESP.
-
-Estou focando meu curso em desenvolvimento de software, banco de dados, Ciência de Dados e Machine Learning. Estou sempre buscando aprender novas tecnologias e desenvolver projetos que consolidem meus conhecimentos e contribuam para meu crescimento profissional.
-
-Meu objetivo é ingressar na área de dados e desenvolvimento de sofware, aplicando boas práticas de programação, aprendizado contínuo e trabalho em equipe para criar soluções eficientes e de impacto.
+Atualmente concentro meus estudos em desenvolvimento de software, banco de dados, Ciência de Dados e Machine Learning. Gosto de colocar em prática o que aprendo por meio de projetos pessoais e acadêmicos, sempre buscando evoluir minhas habilidades técnicas e aprender novas tecnologias utéis ao mercado, de modo a contribuir com soluções bem estruturadas..
 
 
 ---
@@ -116,7 +114,7 @@ Meu objetivo é ingressar na área de dados e desenvolvimento de sofware, aplica
 
 
 ---
-📚 Projetos em destaque
+### 📚 Projetos em destaque
 - [MathTrack](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t4-pmv-si-2025-2-pe1-projmathtrack) 🚀: Plataforma universitário desenvolvido para apoiar o aprendizado de Matemática, aplicando conceitos de desenvolvimento web, versionamento com Git e trabalho colaborativo.
 --
 ### 📫 Contato
@@ -128,5 +126,6 @@ Meu objetivo é ingressar na área de dados e desenvolvimento de sofware, aplica
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/linkedin/0A66C2" 
-/> (www.linkedin.com/in/wallisonvoliveira)
+/> 
+(www.linkedin.com/in/wallisonvoliveira)
 
