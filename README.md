@@ -50,11 +50,11 @@ Meu objetivo é ingressar na área de dados e desenvolvimento de sofware, aplica
 
 <img 
     align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <img 
