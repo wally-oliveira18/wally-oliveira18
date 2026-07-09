@@ -64,8 +64,6 @@ Atualmente concentro meus estudos em desenvolvimento de software, banco de dados
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
-
-
 <img 
     align="left" 
     alt="HTML"
@@ -106,6 +104,7 @@ Atualmente concentro meus estudos em desenvolvimento de software, banco de dados
 <br/>
 <br/>
 
+----
 ### 🎯 Objetivos
 
 - 💻 Evoluir como desenvolvedor Back-end
@@ -119,13 +118,12 @@ Atualmente concentro meus estudos em desenvolvimento de software, banco de dados
 --
 ### 📫 Contato
 
-<img 
-    align="left" 
-    alt="LinkedIn" 
+<img
+    align="left"
+    alt="LinkedIn"
     title="LinkedIn"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/linkedin/0A66C2" 
-/> 
+    width="30px"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+/>
 (www.linkedin.com/in/wallisonvoliveira)
 
