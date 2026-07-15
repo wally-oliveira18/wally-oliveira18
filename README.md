@@ -105,7 +105,7 @@ Atualmente concentro meus estudos em desenvolvimento de software, Ciência de Da
 <br/>
 
 ----
-### 🎯 Objetivos
+### Objetivos
 
 - Evoluir como desenvolvedor Back-end
 - Aprimorar meus conhecimentos em Ciência de Dados, Machine Learning e Inteligência Artificial por meio de projetos práticos e estudos constantes.
@@ -115,7 +115,8 @@ Atualmente concentro meus estudos em desenvolvimento de software, Ciência de Da
 ---
 ### 📚 Projetos em destaque
 - [MathTrack](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t4-pmv-si-2025-2-pe1-projmathtrack) : Plataforma universitário desenvolvido para apoiar o aprendizado de Matemática, aplicando conceitos de desenvolvimento web, versionamento com Git e trabalho colaborativo.
---
+- [Monitoria](https://github.com/wally-oliveira18/Monitoria-Algoritmos-e-Estrutura-de-Dados-I) : Códigos desenvolvidos durante minha autação como monitor de Algoritmos e Estrutura de Dados I em C# no curso de Sistemas de Informações na PUC-MG.
+
 ### 📫 Contato
 
 <img 
