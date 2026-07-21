@@ -2,11 +2,8 @@
 
 🎓 Estudante de Sistemas de Informação na PUC Minas
 
-🌍 Belo Horizonte, MG – Brasil
+ Belo Horizonte, MG – Brasil
 
-💻 Apaixonado por Programação, Estrutura de Dados e Desenvolvimento back-end
-
-🤖 Entusiasta da Machine Learning e Ciência de Dados
 
 ---
 ### Sobre mim
