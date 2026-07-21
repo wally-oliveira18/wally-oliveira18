@@ -1,8 +1,8 @@
 # 👨🏿‍💻 Wallison Victor de Oliveira
 
-🎓 Estudante de Sistemas de Informação na PUC Minas
+Estudante de Sistemas de Informação na PUC Minas
 
- Belo Horizonte, MG – Brasil
+Belo Horizonte, MG – Brasil
 
 
 ---
@@ -14,7 +14,7 @@ Atualmente concentro meus estudos em desenvolvimento de software, Ciência de Da
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -110,7 +110,7 @@ Atualmente concentro meus estudos em desenvolvimento de software, Ciência de Da
 
 
 ---
-### 📚 Projetos em destaque
+### Projetos em destaque
 - [MathTrack](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t4-pmv-si-2025-2-pe1-projmathtrack) : Plataforma universitário desenvolvido para apoiar o aprendizado de Matemática, aplicando conceitos de desenvolvimento web, versionamento com Git e trabalho colaborativo.
 - [Monitoria](https://github.com/wally-oliveira18/Monitoria-Algoritmos-e-Estrutura-de-Dados-I) : Códigos desenvolvidos durante minha autação como monitor de Algoritmos e Estrutura de Dados I em C# no curso de Sistemas de Informações na PUC-MG.
 
